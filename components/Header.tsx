@@ -74,7 +74,7 @@ export default function App() {
       </Navbar.Content>
       <Navbar.Collapse>
         {pages.map((item) => (
-          <Navbar.CollapseItem key={item.href} activeColor="secondary" isActive={item.current}>
+          <Navbar.CollapseItem key={item.href} isActive={item.current}>
             <Link
               color="inherit"
               css={{
