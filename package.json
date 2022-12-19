@@ -1,6 +1,7 @@
 {
   "name": "freechat",
   "version": "0.1.0",
+  "description": "Free Chat is a free anonymous chat service that allows you to chat with strangers from all over Brazil",
   "private": true,
   "scripts": {
     "dev": "next dev",
